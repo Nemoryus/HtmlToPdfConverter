@@ -7,7 +7,7 @@ Aplikácia napísaná v jazyku Java, ktorá prevedie URL adresu webovej stránky
 Pre použitie tejto aplikácie je nutné, si teto projekt stiahnuť a následne spustiť súbor "run.bat"
 
 ### Možné rozšírenia aplikácie
-Konvertovanie HTML súboru do PDF.
+Konvertovanie HTML súboru do PDF.\n
 Konvertovanie PDF do HTML súboru.
 
 
